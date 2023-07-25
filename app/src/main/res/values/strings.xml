@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Instagramclone</string>
+    <string name="hey_there">Hey There,</string>
+    <string name="create_account">Create an Account</string>
+    <string name="welcome_back">Welcome Back</string>
+    <string name="firstname">First name</string>
+    <string name="lastname">Last name</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="hide_password">Hide password</string>
+    <string name="show_password">Show password</string>
+</resources>

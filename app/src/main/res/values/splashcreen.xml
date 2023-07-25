@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Theme.instaSplash" parent="Theme.SplashScreen">
+        <item name="windowSplashScreenBackground">@color/bgscolor</item>
+        <item name="windowSplashScreenAnimatedIcon">@android:drawable/ic_menu_camera</item>
+        <item name="postSplashScreenTheme">@style/Theme.Instagramclone</item>
+    </style>
+</resources>
